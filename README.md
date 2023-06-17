@@ -3,7 +3,7 @@ a transpiler for C++
 
 ## Why?
 The goal is to write a small program, that sees this statement `namespace acme;`
-and transforms into regular C++ namespace declaration, that include all declarations in the file:
+and transforms into regular C++ namespace declaration, that includes all declarations in the file:
 ```cpp
 namespace acme {
     /* your declarations here */
