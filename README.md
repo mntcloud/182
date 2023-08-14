@@ -12,7 +12,7 @@ namespace acme {
 So I've written a small S2S (Source-to-Source) compiler for this kind of task, 
 right now it's a more dirty prototype actually, than a good-to-go program.
 
-## What we need to be good-to-go?
+## What do we need to be good-to-go?
 - [ ] clangd LSP wrapper for working inside IDEs or editors with IDE's like capabilities
 - [ ] Rebuild parser's logic
 - [ ] Keep room for the future transpiler features
